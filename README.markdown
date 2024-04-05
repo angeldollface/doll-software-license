@@ -9,11 +9,11 @@ In my opinion, there is a lot wrong with the licensing schemes that exist for FO
 - A lot of companies use FOSS software but neither credit nor compensate the developers of this FOSS software.
 - This license still respects the basic principles of FOSS software but aggressively forbids companies or other parties from doing the following:
   - a) Using your FOSS project for commercial purposes without compensating you and/or crediting you.
-  - b) Deriving something from your FOSS project and filing a patent without your consent or compensation of some sort.+
+  - b) Deriving something from your FOSS project and filing a patent without your consent or compensation of some sort.
 
 ## ABBREVIATIONS :gear:
 
-Similar to how other license have abbreviations like "GPL v3", the Doll Software License has the abbreviation of `DSL v1` or `DSL-1`.
+Similar to how other licenses have abbreviations like "GPL v3", the Doll Software License has the abbreviation of `DSL v1` or `DSL-1`.
 
 ## LICENSE :scroll:
 
@@ -23,7 +23,7 @@ To include the license in your FOSS project, simply copy-paste the following tex
 DOLL SOFTWARE LICENSE
 Version 1, April 5 2024
 
-Copyright (C) 2024 Angel Dollface <https://angeldollface.boo>
+Copyright (C) 2024 Angel Dollface <https://angeldollface.boo>.
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
