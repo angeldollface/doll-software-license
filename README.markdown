@@ -23,20 +23,32 @@ To include the license in your FOSS project, simply copy-paste the following tex
 DOLL SOFTWARE LICENSE
 Version 1, April 5 2024
 
-Copyright (C) 2024 Angel Dollface <https://angeldollface.boo>.
-Everyone is permitted to copy and distribute verbatim copies
+Copyright (C) 2024 Angel Dollface <https://angeldollface.boo>
+Anyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
 A single author or authors of this project permit the following use of this project:
 
 - 1.) Any entity is allowed to redistribute, modify, and privately use this project.
-- 2.) If modifications to this project are made, the original author or original authors have to be credited.
-- 3.) The original author or original authors ARE NOT permitted to use this project commercially or for patent use.
+- 2.) If the project is modified in any way, the original author or original authors have to be credited.
+- 3.) Corporate entities ARE NOT permitted to use this project commercially or for patent use.
 
 The following restrictions apply to this project:
 
-- 1.) The original author or original authors are not liable for any warranty claims. Use is at one's own risk.
+- 1.) The original author or original authors are not liable for any warranty claims. Use of the project is at one's own risk.
 - 2.) The original author or original authors are not responsible for any consequences resulting from use of this project.
+- 3.) Any modified versions of this project or projects making use of this project HAVE to use this version of this license.
+```
+
+## FETCHING :inbox_tray:
+
+If you want to download the license file, you can do so with either `curl` or `wget`:
+
+```bash
+# CURl
+curl https://raw.githubusercontent.com/angeldollface/doll-software-license/main/LICENSE
+# WGET
+wget https://raw.githubusercontent.com/angeldollface/doll-software-license/main/LICENSE
 ```
 
 ## NOTE :scroll:
