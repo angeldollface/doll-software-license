@@ -21,7 +21,7 @@ To include the license in your FOSS project, simply copy-paste the following tex
 
 ```Text
 DOLL SOFTWARE LICENSE
-Version 1, April 5 2024
+Version 1, April 10 2024
 
 Copyright (C) 2024 Angel Dollface <https://angeldollface.boo>
 Anyone is permitted to copy and distribute verbatim copies
